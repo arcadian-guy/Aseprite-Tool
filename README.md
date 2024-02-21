@@ -1,5 +1,5 @@
 # Aseprite-Tool
-Aseprite is a great tool for game developers and animators. Let this tool help you get it for free 😜
+Aseprite is a great tool for game developers and animators. Let this tool help you get it for free.
 
 Aseprite is a tool for animating 2D sprites, and is preferred by many game devs. Though Aseprite is paid, it is allowed to be built for free from source.
 
@@ -29,8 +29,8 @@ e) Make sure to click apply and save before exiting and Restart your computer.
 # Procedure
 1) Make sure there are deps and aseprite folder in C: and all prerequisite has been fulfilled.
 2) Grab latest tool release from this repo and put the .bat file in C: Drive.
-3) Click Run and let it do all work 😉 (It takes about 3-8 mins depending on hardware).
-4) Your aseprite release will be available at "C:\aseprite\build\bin" in form of aseprite.exe 😄
+3) Click Run and let it do all work (It takes about 3-8 mins depending on hardware).
+4) Your aseprite release will be available at "C:\aseprite\build\bin" in form of aseprite.exe.
 
 # Conclusion
 Aseprite is NOT my product, I am just helping you guys. Don't ask me unnecessary questions about Aseprite. You can learn more at [aseprite](https://github.com/aseprite/aseprite).
