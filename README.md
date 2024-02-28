@@ -40,4 +40,4 @@ Do support the developer [Dacap](https://github.com/dacap) for his and his team'
 To update the built program, delete the old aseprite folder along with aseprite.exe, and grab the new source file and extract it in new folder named aseprite. Finally, re-run the Tool.
 
 # Support
-You can raise an issue or contact me through Discord : arcadian_guy 👋
+You can raise an issue
